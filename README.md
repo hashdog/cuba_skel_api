@@ -1,31 +1,31 @@
-# Neuro Pos API
+# HASHDOG DEMO API
 
 ## Setup
 
   - Get the code
 
 ```
-git clone git@bitbucket.org:hashdogteam/neuro_pos_api.git
+git clone git@bitbucket.org:hashdogteam/hashdog_api.git
 ```
 
   - Install dependencies
 
 ```
-cd neuro_pos_api
+cd hashdog_api
 dep install
 ```
 
   - Install test's dependencies
 
 ```
-cd neuro_pos_api
+cd hashdog_api
 dep install -f .gems-test
 ```
 
 ## Launch
 
 ```
-cd neuro_pos_api
+cd hashdog_api
 rackup
 ```
 
